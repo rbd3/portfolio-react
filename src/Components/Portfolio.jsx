@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "eboons 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "a website that boosts your buying power by offering discounted prices and special deals..",
+    url: "https://www.eboons.ch",
   },
   {
-    title: "Web Development for Beginners",
+    title: "RBD School",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This Ruby on Rails  with React project is about  a high school in Madagascar based on three subjects : computer science, english as main language, and chess game.Whether you are a parent or student this school will help you or your children to be a future inrternational worker in the Technologie areas.",
+    url: "https://school-react.onrender.com/",
   },
   {
-    title: "My Resume Site",
+    title: "TV-Show",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "The TV-ShoW Episodes website is a platform that provides information about various TV-serie. The website utilizes an API to fetch data about popular TV-shows episodes : season number or summary about it for example. You can add a comment",
+    url: "https://tv-show-episodes.onrender.com",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "BookStore",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Book Store, a user-friendly React-based application that enpowers user to effortlessly add and remove books form your collection.Adding a book is as simple as providing the book title and author name.Once you have entered the required information, just press the enter key or click the submit button to add the book store.",
+    url: "https://bookstore-5cb5.onrender.com",
   },
 ];
 
