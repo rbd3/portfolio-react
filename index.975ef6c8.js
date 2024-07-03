@@ -28722,7 +28722,7 @@ const imageAltText = "desktop with books and laptop";
         url: "https://tv-show-episodes.onrender.com"
     },
     {
-        title: "BookStore",
+        title: "BookStore \uD83C\uDF89",
         description: "Book Store, a user-friendly React-based application that enpowers user to effortlessly add and remove books form your collection.Adding a book is as simple as providing the book title and author name.Once you have entered the required information, just press the enter key or click the submit button to add the book store.",
         url: "https://bookstore-5cb5.onrender.com"
     }, 
