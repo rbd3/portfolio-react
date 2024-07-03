@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://rbd3.github.io/portfolio-react",
+  "homepage": "https://rbd3.github.io/portfolio-react",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
